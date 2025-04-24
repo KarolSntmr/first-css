@@ -1,0 +1,54 @@
+nav { 
+  font-family: Peralta, 'Times New Roman'; 
+  text-align: center;
+  color: skyblue;
+  font-size: 16px; 
+}
+h1 { 
+  font-family: Peralta,'Times New Roman'; 
+  border: 4px inset mediumpurple; 
+  border-radius: 10px;
+  text-align: center;
+  
+}
+* { 
+  background-color: seashell;
+}
+
+#img {
+  border: 6px solid salmon;
+  border-radius: 100px; 
+}
+
+main { 
+  text-align: center;
+  font-family: 'lucida console', Helvetica; 
+}
+
+#about-me { 
+  text-align: center;
+  font-family: 'lucida console', Helvetica;
+  padding: 25px 35px 25px 46px; 
+}
+
+#projects { 
+  margin:auto; 
+}
+
+#restaurant {
+  margin-right:50px;
+  margin-top: 45px;
+  margin-bottom: 67px;
+  margin-left: 30px;
+  border-radius: 40px;
+  border: 6px ridge #008B8B;
+  padding: 25px;
+  background-color: #F0FFF0;
+}
+
+footer { 
+  font-family:'Courier New', Courier, monospace;
+  font-style: italic;
+  font-size: 15px;
+ 
+}
