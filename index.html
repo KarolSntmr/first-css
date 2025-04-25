@@ -4,23 +4,30 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Personal Site</title>
-  <link rel="stylesheet" href="styles.css">
+  <link href="styles.css" rel="stylesheet" />
   <link href='https://fonts.googleapis.com/css?family=Peralta' rel='stylesheet'>
 </head>
 <body>
+  <div id="outside-wrapper">
   <header>
+  <img 
+   id="header-img" src="https://www.artesguerrero.edu.co/wp-content/uploads/2024/12/Fractales-19-1-scaled.jpg"
+   alt:"Woman holding her hands up high"
+  >
    <h1> My personal site</h1>
-   <nav>
+   <nav> 
      <ul>
        <li> <a href="#about-me">About me</a></li> 
        <li> <a href="#projects"> Projects </a></li>
        <li> <a href="#contact"> Contact</a></li>
      </ul>
+     <hr />
    </nav>
   </header>
   <br/>
   <br/>
   <main>
+     <div class="about">
     <section id="about-me">
       <h2> About me </h2>
       <article> 
@@ -31,9 +38,13 @@
       width="150"
       id="img" src="https://lh3.googleusercontent.com/pw/AP1GczMa9pbJq-6hNvkWzszNYDxX2g_s8EFyozULpKW1SfOzkPXIIH03n4WhTTO2FwzYHhh6bUC_BEZ1n7w-a_2XUHcPreGjqp6yOA87NSqeUWdgw9-K76ATI0as5PvwBHDK4zSk-_IIqadtbhkw0NtoSmb8gw=w583-h869-s-no-gm"
       alt="Karol sitting on a chair">
-      </figure>
+      </figure>  
+    
+      </div>
       </article>
     </section>
+      <hr />
+    <div class="project">
     <section id="projects">
   <br/>
     <h3> Projects </h3>
@@ -44,7 +55,9 @@
     alt="Restaurant begginer website "
     width="550">
     </article>
+    </div>
   </section> 
+  <hr />
   <br/>
   </main>
   <br/>
@@ -55,5 +68,6 @@
       <p> Instagram: KarolSantamaria</p>
     </section>
   </footer>
+</div>
 </body>
-</html> 
+</html>
