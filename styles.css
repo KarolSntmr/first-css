@@ -10,8 +10,11 @@ h1 {
   border: 4px inset mediumpurple; 
   border-radius: 10px;
   text-align: center;
-  
-}
+  width: 18em;
+  margin-top: 25px;
+  margin-left: 25px;
+
+  }
 
 * { 
   background-color: seashell;
