@@ -1,28 +1,53 @@
+* {
+  padding-left: 2px;
+  padding-right:1px;
+}
+
+
 nav { 
   font-family: Peralta, 'Times New Roman'; 
   text-align: center;
-  color: skyblue;
-  font-size: 16px; 
+  font-size: 15px; 
+}
+#header-img { 
+  width: 650px;
+  height: 25em;
+  border-radius: 100px;
+  margin: auto; 
+
 }
 
+hr {
+  width: 40em;
+
+}
 h1 { 
   font-family: Peralta,'Times New Roman'; 
-  border: 4px inset mediumpurple; 
   border-radius: 10px;
   text-align: center;
   width: 18em;
-  margin-top: 25px;
-  margin-left: 125px;
+  margin-left: 25px;
 
-  }
+}
 
-* { 
+#outside-wrapper {
+  width: 90%;
   background-color: seashell;
+  text-align: center;
+}
+
+
+.about, .project{
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 3px 5px rgba(103, 224, 198, 0.1);
+  margin-bottom: 2rem;
 }
 
 #img {
   border: 6px solid salmon;
-  border-radius: 100px; 
+  border-radius: 10px; 
 }
 
 main { 
@@ -33,7 +58,7 @@ main {
 #about-me { 
   text-align: center;
   font-family: 'lucida console', Helvetica;
-  padding: 25px 35px 25px 46px; 
+  padding: 1px 35px 25px 46px; 
 }
 
 #projects { 
@@ -41,10 +66,6 @@ main {
 }
 
 #restaurant {
-  margin-right:50px;
-  margin-top: 45px;
-  margin-bottom: 67px;
-  margin-left: 30px;
   border-radius: 40px;
   border: 6px ridge #008B8B;
   padding: 25px;
