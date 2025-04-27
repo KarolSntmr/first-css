@@ -5,7 +5,6 @@
   margin-bottom: 7px;
   margin-left:15px;
   margin-right:15px;
-
 }
 
 
@@ -14,32 +13,31 @@ nav {
   text-align: center;
   font-size: 15px; 
 }
+
 #header-img { 
   width: 650px;
   height: 25em;
   border-radius: 100px;
   margin: auto; 
-
 }
 
 hr {
   width: 40em;
-
 }
+
 h1 { 
   font-family: Peralta,'Times New Roman'; 
   border-radius: 10px;
   text-align: center;
   width: 18em;
-  margin-left: 75;
-
+  margin-left: 75px;
 }
 
 #outside-wrapper {
   width: 90%;
   background-color: seashell;
   text-align: center;
-  margin-left: 50;
+  margin-left: 50px;
 }
 
 
