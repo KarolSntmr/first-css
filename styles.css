@@ -25,17 +25,17 @@ hr {
 h1 { 
   font-family: Peralta,'Times New Roman'; 
   border-radius: 10px;
+  text-align: center;
   width: 18em;
-  margin-left: 175px;
+  margin-left: 75;
 
 }
-
 
 #outside-wrapper {
   width: 90%;
   background-color: seashell;
   text-align: center;
-  margin-left: 85px;
+  margin-left: 50;
 }
 
 
@@ -47,7 +47,6 @@ h1 {
   margin-bottom: 7px;
   margin-left:15px;
   margin-right:15px;
-}
 }
 
 #img {
@@ -75,6 +74,7 @@ main {
   border: 6px ridge #008B8B;
   padding: 25px;
   background-color: #F0FFF0;
+  padding-left:10px;
 }
 
 footer { 
