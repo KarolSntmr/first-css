@@ -6,6 +6,7 @@
 
 
 nav { 
+  margin-top:45px;
   font-family: Peralta, 'Times New Roman'; 
   text-align: center;
   font-size: 15px; 
@@ -14,6 +15,7 @@ nav {
   width: 90%;
   height: 25em;
   border-radius: 100px;
+  margin-bottom:40px;
 
 }
 
