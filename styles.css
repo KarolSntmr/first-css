@@ -31,11 +31,11 @@ h1 {
 }
 
 #outside-wrapper {
-  width: 70%;         /* Make it narrower */
+  width: 70%;        
   background-color: seashell;
   text-align: center;
-  margin: 0 auto;      /* Center the whole wrapper */
-  padding: 20px;       /* Space inside the box */
+  margin: 0 auto;      
+  padding: 20px;       
 }
 
 .about, .project {
